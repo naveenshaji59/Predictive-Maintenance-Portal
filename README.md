@@ -9,6 +9,11 @@ This project is an interactive, machine learning-powered web application designe
 * **Interactive Dashboard:** A clean, responsive UI built with Streamlit that allows users to manipulate live sensor inputs and instantly view predictive safety alerts.
 * **Automated Risk Assessment:** Dynamic logic that flags severe anomalies (e.g., temperatures > 80°C combined with high vibration) for immediate maintenance intervention.
 
+  <img width="1919" height="1079" alt="Screenshot 2026-05-03 131707" src="https://github.com/user-attachments/assets/48001659-f9d6-4d5b-8729-8ae8d07ac5e9" />
+<img width="1919" height="1079" alt="Screenshot 2026-05-03 132107" src="https://github.com/user-attachments/assets/8643cae3-5fcb-46b2-a7b8-785dcb48d277" />
+<img width="1919" height="1079" alt="Screenshot 2026-05-03 132123" src="https://github.com/user-attachments/assets/4e5df3c4-9467-4201-b4db-1f89a7a12e51" />
+
+
 ## 🛠️ Technical Stack
 * **Language:** Python
 * **Frontend/Framework:** Streamlit
